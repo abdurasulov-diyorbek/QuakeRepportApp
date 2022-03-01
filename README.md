@@ -6,4 +6,4 @@ Users can see Earthquakes in the world in real time.
 
 They can set limit for eartquakes. And they can sort eartquakes by date or by magnitude.
 
-All features will added soon.
+All features will be add soon.
